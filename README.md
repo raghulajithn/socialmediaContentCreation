@@ -45,8 +45,8 @@ This application utilizes the LLama 2 language model to generate social media co
 
 ## Example
 
+![example](https://github.com/raghulajithn/socialmediaContentCreation/assets/96931716/11e52ee7-7df6-45f2-9050-69121e91b2bb)
 
-![example](https://github.com/raghulajithn/socialmediaContentCreation/assets/96931716/2c9be78e-5dce-4c5f-950e-8e2f8fcae78d)
 
 ## Credits
 
